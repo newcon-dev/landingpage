@@ -1,7 +1,6 @@
 /* Sticky footer styles
 -------------------------------------------------- */
 html, body {
-  position: relative;
   height: 100%;
 }
 
@@ -18,18 +17,20 @@ html, body {
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
 
-strong {
-	font-weight: bold;
+main {
+	min-height: 100%;
+	margin-bottom: -60px;
+	padding-bottom: 60px;
 }
 
-.logo {
-  margin-top: 32px;
+strong {
+	font-weight: bold;
 }
 
 .container {
   width: auto;
   max-width: 680px;
-  padding: 0 15px;
+  /*padding: 0 15px;*/
 }
 
 /*
