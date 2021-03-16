@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.busplus\.* [OR]
+RewriteCond %{HTTP_HOST} ^busplus\.* [NC]
+RewriteRule .* https://www.newcon.info/busplus [L]
