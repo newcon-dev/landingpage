@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b07df6d-1f6a-407c-ac22-91b29058d150" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +48,15 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645458755636">
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645519096032">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1645519096032" />
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1645458755636" />
+    <state x="450" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645520150255">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1645458755636" />
+    <state x="450" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.828@0.23.1440.828" timestamp="1645520150255" />
     <state x="351" y="42" key="CommitChangelistDialog2" timestamp="1645517080067">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
@@ -65,9 +69,10 @@
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="484" y="158" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.828@0.23.1440.828" timestamp="1645458577793" />
-    <state x="385" y="198" key="run.anything.popup" timestamp="1645458158509">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="385" y="198" key="run.anything.popup" timestamp="1645519109631">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
+    <state x="385" y="198" key="run.anything.popup/0.23.1440.827@0.23.1440.827" timestamp="1645519109631" />
     <state x="385" y="198" key="run.anything.popup/0.23.1440.828@0.23.1440.828" timestamp="1645458158509" />
   </component>
 </project>
