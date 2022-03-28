@@ -21615,12 +21615,12 @@
 }
 
 .btn--primary {
-  background-color: #4563dc;
+  background-color: #90B627;
   color: #FFF;
 }
 
 .btn--primary:hover {
-  background-color: rgba(39, 128, 255, 0.8);
+  background-color: rgba(255, 215, 0, 1);
   color: #fff;
 }
 
@@ -21762,7 +21762,7 @@ p {
 }
 
 .main-menu > li > a:hover {
-  color: #4563dc;
+  color: #90B627;
 }
 
 @media (min-width: 992px) {
@@ -21821,7 +21821,7 @@ p {
 
 @media (min-width: 992px) {
   .main-menu .menu-dropdown .single-item:hover a h3 {
-    color: #4563dc;
+    color: #90B627;
   }
 }
 
@@ -21879,7 +21879,7 @@ p {
 }
 
 .header-btns .btn-link:hover {
-  color: #4563dc;
+  color: #90B627;
 }
 
 .header-btns.btns-group {
@@ -21889,10 +21889,10 @@ p {
 /*  Mobile Menu / Mean Menu Reset  */
 .hamburger-icon {
   font-size: 16px;
-  color: #4563dc;
+  color: #90B627;
   width: 36px;
   height: 36px;
-  border: 2px solid #4563dc;
+  border: 2px solid #90B627;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -21908,7 +21908,7 @@ p {
 }
 
 .hamburger-icon:hover {
-  background: #4563dc;
+  background: #90B627;
   color: #fff;
   border-color: transparent;
 }
@@ -21991,7 +21991,7 @@ p {
   width: 50px;
   height: 50px;
   font-size: 20px;
-  background-color: #4563dc;
+  background-color: #90B627;
   color: #fff;
   line-height: 50px;
   text-align: center;
@@ -22047,7 +22047,7 @@ p {
 }
 
 .mobile-navigation .mobile-menu li:hover > a {
-  color: #4563dc;
+  color: #90B627;
 }
 
 .mobile-navigation .mobile-menu a {
@@ -22202,7 +22202,7 @@ p {
 }
 
 .hero-ratings .rating-stars li {
-  color: #24008f;
+  color: #FFD700;
 }
 
 .hero-ratings .rating-stars li:last-child {
@@ -22647,7 +22647,7 @@ p {
 }
 
 .content-widget .widget-icon {
-  background-color: #4563dc;
+  background-color: #90B627;
   border-radius: 50%;
   width: 55px;
   height: 55px;
@@ -22833,7 +22833,7 @@ p {
           justify-content: center;
   -webkit-transition: .4s;
   transition: .4s;
-  background-color: #4563dc;
+  background-color: #90B627;
   color: #fff;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -23087,12 +23087,12 @@ p {
 }
 
 .cta-icon i {
-  color: #4563dc;
+  color: #90B627;
   font-size: inherit;
 }
 
 .cta-icon:hover {
-  background-color: #4563dc;
+  background-color: #90B627;
 }
 
 .cta-icon:hover i {
@@ -23207,7 +23207,7 @@ p {
   width: 60px;
   height: 60px;
   font-size: 28px;
-  background-color: #4563dc;
+  background-color: #90B627;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -23232,7 +23232,7 @@ p {
   width: 132px;
   height: 30px;
   border-radius: 15px;
-  background-color: #24008f;
+  background-color: #FFD700;
   color: #fff;
   display: -webkit-box;
   display: -ms-flexbox;
