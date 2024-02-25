@@ -365,6 +365,36 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0 8px 28px rgba(22, 223, 26, 0.45);
 }
 
+#hero .btn-busplus {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 30px 10px 30px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  background: #97e078;
+  box-shadow: 0 8px 28px rgba(22, 223, 26, 0.45);
+}
+
+#hero .btn-shortbreak {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 30px 10px 30px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  background: #97e078;
+  box-shadow: 0 8px 28px rgba(22, 223, 26, 0.45);
+  /*background: #4234F8;
+  box-shadow: 0 8px 28px rgba(66, 52, 248, 1);*/
+}
+
 #hero .btn-get-started:hover {
   background: #77d858;
   box-shadow: 0 8px 28px rgba(30, 250, 50, 0.45);
