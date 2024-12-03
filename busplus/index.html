@@ -308,6 +308,20 @@
 										</div>
 								</div>
 								<div class="hero-shape" data-aos="fade-right" data-aos-duration="1000" data-aos-once="true" data-aos-delay="100"><img src="image/hero-shape.png" alt="" /></div>
+								
+							<!-- Toast -->
+							<div class="toast bg-warning text-dark" role="alert" aria-live="assertive" aria-atomic="true" data-autohide="false" style="position: absolute; top: 0; right: 0; z-index: 9999;">
+								<div class="toast-header">
+									<strong class="mr-auto">Streik im Stadtbusverkehr</strong>
+									<small>Aktuell</small>
+									<button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+									<span aria-hidden="true">&times;</span>
+									</button>
+								</div>
+								<div class="toast-body">
+									Die Gewerkschaft Verdi ruft von <b>Montag, 2. Dezember bis Mittwoch, 4. Dezember 2024</b> zum Streik auf. Hiervon ist vor allem der Öffentliche Personennahverkehr (ÖPNV) betroffen; es werden <b>keine Stadtbusse (Linien S1 - S9)</b> im Offenburger Stadtgebiet fahren. Wir bitten um Verständnis und empfehlen, auf alternative Verkehrsmittel auszuweichen.
+								</div>
+							</div>
 						</section>
 
 						<!-- Feature Secction -->
@@ -703,5 +717,11 @@
 
 					 <!-- Custom JS -->
 					 <script src="./js/active.js"></script>
+
+					 <script>
+						$(document).ready(function(){
+							$('.toast').toast('show');
+						});
+					 </script>
 		</body>
 </html>
